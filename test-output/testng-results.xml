@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-10T13:17:00 IST" name="Suite" finished-at="2026-11-10T13:17:10 IST" duration-ms="9998">
+    <groups>
+    </groups>
+    <test started-at="2026-11-10T13:17:00 IST" name="Test" finished-at="2026-11-10T13:17:10 IST" duration-ms="9998">
+      <class name="kp_test_pkg.Kp_addtest">
+        <test-method is-config="true" signature="objMthd()[pri:0, instance:kp_test_pkg.Kp_addtest@479d31f3]" started-at="2026-11-10T13:17:09 IST" name="objMthd" finished-at="2026-11-10T13:17:09 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objMthd -->
+        <test-method signature="pptdropdowntest()[pri:1, instance:kp_test_pkg.Kp_addtest@479d31f3]" started-at="2026-11-10T13:17:09 IST" name="pptdropdowntest" finished-at="2026-11-10T13:17:10 IST" duration-ms="952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pptdropdowntest -->
+        <test-method is-config="true" signature="objMthd()[pri:0, instance:kp_test_pkg.Kp_addtest@479d31f3]" started-at="2026-11-10T13:17:10 IST" name="objMthd" finished-at="2026-11-10T13:17:10 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objMthd -->
+        <test-method signature="pptlettertest()[pri:2, instance:kp_test_pkg.Kp_addtest@479d31f3]" started-at="2026-11-10T13:17:10 IST" name="pptlettertest" finished-at="2026-11-10T13:17:10 IST" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pptlettertest -->
+        <test-method signature="pptnumbertest()[pri:3, instance:kp_test_pkg.Kp_addtest@479d31f3]" started-at="2026-11-10T13:17:10 IST" name="pptnumbertest" finished-at="2026-11-10T13:17:10 IST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pptnumbertest -->
+        <test-method is-config="true" signature="objMthd()[pri:0, instance:kp_test_pkg.Kp_addtest@479d31f3]" started-at="2026-11-10T13:17:10 IST" name="objMthd" finished-at="2026-11-10T13:17:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objMthd -->
+        <test-method signature="ppytiframetest()[pri:4, instance:kp_test_pkg.Kp_addtest@479d31f3]" started-at="2026-11-10T13:17:10 IST" name="ppytiframetest" finished-at="2026-11-10T13:17:10 IST" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ppytiframetest -->
+        <test-method is-config="true" signature="objMthd()[pri:0, instance:kp_test_pkg.Kp_addtest@479d31f3]" started-at="2026-11-10T13:17:10 IST" name="objMthd" finished-at="2026-11-10T13:17:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objMthd -->
+      </class> <!-- kp_test_pkg.Kp_addtest -->
+      <class name="kp_test_pkg.Kp_logintest">
+        <test-method is-config="true" signature="opensetup()[pri:0, instance:kp_test_pkg.Kp_logintest@1afd44cb]" started-at="2026-11-10T13:17:00 IST" name="opensetup" finished-at="2026-11-10T13:17:07 IST" duration-ms="6645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opensetup -->
+        <test-method is-config="true" signature="objMthd()[pri:0, instance:kp_test_pkg.Kp_logintest@1afd44cb]" started-at="2026-11-10T13:17:07 IST" name="objMthd" finished-at="2026-11-10T13:17:07 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objMthd -->
+        <test-method signature="loginverify()[pri:0, instance:kp_test_pkg.Kp_logintest@1afd44cb]" started-at="2026-11-10T13:17:07 IST" name="loginverify" finished-at="2026-11-10T13:17:07 IST" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginverify -->
+        <test-method is-config="true" signature="objMthd()[pri:0, instance:kp_test_pkg.Kp_logintest@1afd44cb]" started-at="2026-11-10T13:17:07 IST" name="objMthd" finished-at="2026-11-10T13:17:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objMthd -->
+        <test-method signature="pptaddtest()[pri:0, instance:kp_test_pkg.Kp_logintest@1afd44cb]" started-at="2026-11-10T13:17:07 IST" name="pptaddtest" finished-at="2026-11-10T13:17:09 IST" duration-ms="1768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pptaddtest -->
+      </class> <!-- kp_test_pkg.Kp_logintest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
